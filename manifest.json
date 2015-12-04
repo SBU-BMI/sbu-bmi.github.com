@@ -1,0 +1,11 @@
+{
+  "lang": "en",
+  "name": "Stony Brook University (SBU) Biomedical Informatics Department",
+  "short_name": "SBU-BMI",
+  "icons": [{
+        "src": "BMI126.png",
+        "sizes": "126x126",
+      }],
+  "start_url": "https://sbu-bmi.github.io/index.html",
+  "display": "fullscreen"
+}
