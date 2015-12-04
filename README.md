@@ -1,2 +1,2 @@
 # sbu-bmi.github.com
-landing repository for the department
+Landing repository for the department, at [sbu-bmi.github.io](https://sbu-bmi.github.io).
